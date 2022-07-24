@@ -1,7 +1,9 @@
-  # Run Buddy [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  
+  # README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a web application that allows users to enter their contact information and set up one-on-one coaching with a running coach in their area
+  This is a node.js project that is designed to allow users to generate a professional README.md file. The user is prompted to answer a series of questions and the answers are populated into the README.md file automatically.
 
   ## Table of Contents
 
@@ -13,16 +15,16 @@
   * [Questions](#questions)
 
   ## Installation
-  No installation required, this is a web application
+  To use this project, please make sure you have installed node.js on your computer. Navigate to the repository in the command line and run npm install to install the required dependencies. Once all dependencies have been installed, simply  run 'node index.js' in the command line.
 
   ## Usage
-  Visit the deployed application and complete the form to get started
+  Use this project to automatically generate a pre-styled README.md file for your repositories.
 
   ## Contributing
-  If you would like to contribute, please fork the repository and submit a pull request with your updates
+  If you would like to contribute to this project, you may fork the github repository (github.com/dmadon/readme-generator). After you have made improvements, submit a pull request for approval.
 
   ## Tests
-  Go to the website and give it a try!
+  Run this application from the command line and test the results.
 
   ## License
 
@@ -32,3 +34,10 @@
 
   * [View my github profile](https://github.com/dmadon)
   * If you have questions about this project, you can email me at deanna.madon@gmail.com
+
+  ## Preview
+
+  ## Links
+  View the repository: https://github.com/dmadon/readme-generator
+
+  View the sample README.md file: ./dist/README.md
