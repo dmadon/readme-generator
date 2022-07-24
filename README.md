@@ -36,6 +36,9 @@
   * If you have questions about this project, you can email me at deanna.madon@gmail.com
 
   ## Preview
+  
+  ![image](https://user-images.githubusercontent.com/99852346/180627998-77970542-34bd-49bb-8ed5-620baa86d0c4.png)
+
 
   ## Links
   View the repository: https://github.com/dmadon/readme-generator
