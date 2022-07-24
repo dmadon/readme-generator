@@ -40,4 +40,5 @@
   ## Links
   View the repository: https://github.com/dmadon/readme-generator
 
-  View the sample README.md file: ./dist/README.md
+  View the sample README.md file: https://github.com/dmadon/readme-generator/blob/main/dist/README.md
+  
