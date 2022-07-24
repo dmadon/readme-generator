@@ -41,6 +41,8 @@
 
 
   ## Links
+  View a walkthrough video of the readme generator in action: https://drive.google.com/file/d/1tCPEA_avO4uDzE0uh9A1aWhQqsYweIHX/view?usp=sharing
+  
   View the repository: https://github.com/dmadon/readme-generator
 
   View the sample README.md file: https://github.com/dmadon/readme-generator/blob/main/dist/README.md
